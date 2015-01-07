@@ -1,0 +1,7 @@
+{
+    "name": "wordpoints/l10n-validator-config",
+    "description": "WordPoints-specific configuration for https://github.com/JDGrimes/wp-l10n-validator",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
