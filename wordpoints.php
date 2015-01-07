@@ -75,12 +75,6 @@ WP_L10n_Validator::register_config_callback( function( $parser ) {
 			// Instance methods.
 			'$hook->get_description' => true,
 			'$hook->get_option' => true,
-			'$this->_prepare__in' => true,
-			'$this->_prepare_posint__in' => true,
-			'$this->get_field_id' => true,
-			'$this->get_field_name' => true,
-			'$this->the_field_id' => true,
-			'$this->the_field_name' => true,
 			'$wordpoints_components->activate' => true,
 		)
 	);
